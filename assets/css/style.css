@@ -101,7 +101,30 @@ body {
         margin-left: 40px;
     }
 
+    /* food menu */
+
+    .menu-games {
+        font-size: 20px;
+        width: 100%;
+        text-align: center;
+    }
+    
+    #left-food-menu {
+        float: left;
+        width: 50%;
+    }
+
+    #right-games-menu {
+        float: left;
+        width: 50%;
+        margin-bottom: 100px;
+    }
+
    /* footer */
+    
+    footer {
+        clear: both;
+    }
 
    .social-networks {
     margin-top: 100px;
