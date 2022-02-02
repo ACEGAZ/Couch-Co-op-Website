@@ -80,6 +80,12 @@ body {
         display: inline-table;
     }
 
+    /* find us here */
+
+    #find-us-here {
+        font-size: 30px;
+    }
+
     /* opening times */
 
     #opening-times h2 {
@@ -93,12 +99,6 @@ body {
     #opening-times  div {
         display: inline-table;
         margin-left: 40px;
-    }
-
-    /* find us here */
-
-    #find-us-here {
-        font-size: 30px;
     }
 
    /* footer */
