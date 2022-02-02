@@ -67,20 +67,32 @@ body {
 
 /* welcome section */
 
-    .home-page-sections {
+    #welcome {
         text-align: center;
+        margin-top: 200px;
     }
     
-    .home-page-sections h2 {
+    #welcome h2 {
         font-size: 60px;
     }
 
-    .home-page-sections p {
+    #welcome p {
         font-size: 30px;
         display: inline-table;
     }
 
-     #welcome {
-        margin-top: 200px;
+    /* opening times */
+
+    #opening-times h2 {
+        font-size: 50px;
+        text-align: center;
     }
+
+    #opening-times  div {
+        font-size: 20px;
+        display: inline-table;
+        text-align: center;
+        margin-left: 40px;
+    }
+
 
