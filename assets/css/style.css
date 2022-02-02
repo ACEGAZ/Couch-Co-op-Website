@@ -9,6 +9,10 @@ body {
         background: linear-gradient(45deg, #f8394f, #25adfc) no-repeat;
         }
 
+.index-sections {
+    margin-top: 100px;
+}
+
 /* heading and logo */
 
 #left-header {
@@ -62,14 +66,13 @@ body {
     }
     
     .active {
-            border-bottom: 5px solid #000000;
+        border-bottom: 5px solid #000000;
         }
 
 /* welcome section */
 
     #welcome {
         text-align: center;
-        margin-top: 200px;
     }
     
     #welcome h2 {
@@ -84,15 +87,25 @@ body {
     /* opening times */
 
     #opening-times h2 {
-        font-size: 50px;
         text-align: center;
+        font-size: 45px;
     }
-
-    #opening-times  div {
+    
+    #opening-times h3, h4 {
         font-size: 20px;
+    }
+    
+    #opening-times  div {
         display: inline-table;
         text-align: center;
         margin-left: 40px;
+    }
+
+    /* find us here */
+
+    #find-us-here {
+        font-size: 30px;
+        text-align: center;
     }
 
 
