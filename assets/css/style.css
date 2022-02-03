@@ -12,7 +12,7 @@ body {
 
 
 /* styles that apply to all pages */
-.index-sections, .menu-games {
+.index-sections, .food-games {
     margin-top: 100px;
 }
 
@@ -103,10 +103,10 @@ body {
         margin-left: 40px;
     }
 
-    /* food menu */
+    /* food and games menus */
 
-    .menu-games {
-        font-size: 20px;
+    .food-games {
+        font-size: 25px;
         width: 100%;
         text-align: center;
     }
