@@ -12,7 +12,7 @@ body {
 
 
 /* styles that apply to all pages */
-.index-sections, .food-games {
+.sections {
     margin-top: 100px;
 }
 
@@ -71,10 +71,10 @@ body {
         border-bottom: 5px solid #000000;
         }
 
-/* welcome section */
+/* welcome */
     
     #welcome h2 {
-        font-size: 60px;
+        font-size: 50px;
     }
 
     #welcome p {
@@ -120,6 +120,16 @@ body {
         float: left;
         width: 50%;
         margin-bottom: 100px;
+    }
+
+    /* book a table */
+
+    #book-a-table {
+        font-size: 30px;
+    }
+
+    #book-a-table input {
+       text-align: center;
     }
 
    /* footer */

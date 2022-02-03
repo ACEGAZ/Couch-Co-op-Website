@@ -22,7 +22,7 @@
         <div id="right-header">
             <h1>Co-op</h1>
         </div>
-       
+    
         <nav>
                 <ul id="nav-bar">
                     <li>
@@ -37,7 +37,24 @@
                 </ul>
         </nav>
     </header>
+    <section id="book-a-table" class="sections">
+        <h1>Book a table today!</h1>
+        <br>
+    <form>
+        <label for="fname">First name</label><br>
+  <input type="text" id="fname" name="fname" value="First Name" required><br>
+  <label for="lname">Last name</label><br>
+  <input type="text" id="lname" name="lname" value="Last Name" required><br>
 
+  <label for="booking-day-time">Day & Time</label><br>
+  <input type="datetime-local" id="booking-day-time" 
+       name="booking-day-time" value="0"
+       min="2022-02-02T00:00" required><br>
+       
+  <input type="submit" value="Submit">
+ 
+        </form>
+    </section>
     <footer>
         <ul class="social-networks">
             <li>
