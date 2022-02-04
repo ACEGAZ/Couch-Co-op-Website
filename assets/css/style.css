@@ -188,4 +188,12 @@ body {
     #consoles {
         margin-bottom: 50px;
     }
+    
+    #opening-times h2 {
+        font-size:50px;
+    }
+
+    #opening-times h3, h4 {
+        font-size: 35px;
+    }
     }
