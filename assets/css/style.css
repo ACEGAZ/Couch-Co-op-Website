@@ -152,3 +152,16 @@ body {
     width: 24%;
     color: #25adfc
 }
+
+/* media query for screens with min-width of 768 */
+
+@media only screen and (min-width: 768px) {
+    #consoles {
+        margin-bottom: 40px;
+    }
+
+    #opening-times  div {
+    
+        margin-left: 20px
+    }
+}
