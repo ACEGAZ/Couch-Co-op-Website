@@ -165,3 +165,27 @@ body {
         margin-left: 20px
     }
 }
+
+/* media query for screens with min-width of 1200 */
+
+@media only screen and (min-width: 1200px) {
+    
+    #left-header {
+       font-size: 50px;
+       margin-left: 100px;
+    }
+
+    
+    #right-header {
+        font-size: 50px;
+        margin-right: 100px;
+    }
+
+    #left-food-menu, #right-games-menu {
+        font-size: 20px;
+    }
+
+    #consoles {
+        margin-bottom: 50px;
+    }
+    }
