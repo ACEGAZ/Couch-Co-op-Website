@@ -49,6 +49,7 @@ body {
 #nav-bar {
     font-size: 40px;
     letter-spacing: 4px;
+    font-weight: 600;
     }
 
 #nav-bar li {
@@ -105,21 +106,19 @@ body {
 
     /* food and games menus */
 
-    .food-games {
+    #food-menu, #games-menu {
         font-size: 25px;
         width: 100%;
         text-align: center;
-    }
-    
-    #left-food-menu {
-        float: left;
-        width: 50%;
+        margin-bottom: 100px
     }
 
-    #right-games-menu {
-        float: left;
-        width: 50%;
-        margin-bottom: 100px;
+    #food-menu, #games-menu h2 {
+        font-size: 20px;
+    }
+
+    #food-menu, #games-menu p {
+        font-size: 15px;
     }
 
     /* book a table */
@@ -181,7 +180,7 @@ body {
         margin-right: 100px;
     }
 
-    #left-food-menu, #right-games-menu {
+    #food-menu, #games-menu {
         font-size: 20px;
     }
 
