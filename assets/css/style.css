@@ -180,13 +180,24 @@ body {
 
 @media only screen and (min-width: 768px) {
 
-    #food-menu, #games-menu h2 {
-        font-size: 20px;
+    #food-menu h1 {
+        font-size: 40px;
+    }
+
+    #food-menu p {
+        font-size: 30px;
+    }
+
+    #games-menu h1 {
+        font-size: 40px;
+    }
+
+    #games-menu p {
+        font-size: 30px;
     }
 
     #opening-times  div {
-    
-        margin-left: 20px
+      margin-left: 20px
     }
 }
 
@@ -219,5 +230,10 @@ body {
 
     #opening-times h3, h4 {
         font-size: 35px;
+    }
+
+    #welcome i {
+        padding-left: 30px;
+        padding-right: 30px;
     }
     }
