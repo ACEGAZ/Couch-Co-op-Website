@@ -92,7 +92,7 @@ body {
     /* opening times */
 
     #opening-times h2 {
-        font-size: 45px;
+        font-size: 40px;
     }
     
     #opening-times h3, h4 {
@@ -107,17 +107,23 @@ body {
     /* food and games menus */
 
     #food-menu, #games-menu {
-        font-size: 25px;
-        width: 100%;
         text-align: center;
         margin-bottom: 100px
     }
 
-    #food-menu, #games-menu h2 {
+    #food-menu h1 {
         font-size: 20px;
     }
 
-    #food-menu, #games-menu p {
+    #food-menu p {
+        font-size: 15px;
+    }
+
+    #games-menu h1 {
+        font-size: 20px;
+    }
+
+    #games-menu p {
         font-size: 15px;
     }
 
@@ -128,8 +134,18 @@ body {
         margin-bottom: 600px;
     }
 
+    #book-a-table h1 {
+        font-size: 50px;
+    }
+
+    #book-a-table label {
+        text-align: center;
+        font-size: 40px;
+     }
+
     #book-a-table input {
        text-align: center;
+       font-size: 25px;
     }
 
    /* footer */
@@ -155,8 +171,9 @@ body {
 /* media query for screens with min-width of 768 */
 
 @media only screen and (min-width: 768px) {
-    #consoles {
-        margin-bottom: 40px;
+
+    #food-menu, #games-menu h2 {
+        font-size: 20px;
     }
 
     #opening-times  div {
