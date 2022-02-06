@@ -81,6 +81,7 @@ body {
     
     #welcome h2 {
         font-size: 50px;
+        padding-top: 50px;
     }
 
     #welcome p {
@@ -152,6 +153,7 @@ body {
 
     #book-a-table h1 {
         font-size: 50px;
+        padding-top: 50px;
     }
 
     #book-a-table label {
@@ -212,16 +214,16 @@ body {
         font-size: 50px;
     }
 
-    #food-menu, #games-menu {
+    #food-menu p {
         font-size: 30px;
     }
 
-    #food-menu, #games-menu p {
+    #games-menu p {
         font-size: 30px;
     }
 
     #opening-times h2 {
-        font-size:50px;
+        font-size: 50px;
     }
 
     #opening-times h3, h4 {
