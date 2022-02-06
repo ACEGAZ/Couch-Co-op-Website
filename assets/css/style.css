@@ -119,20 +119,28 @@ body {
         margin-bottom: 100px
     }
 
+    #food-menu div {
+        padding-top: 50px;
+    }
+
     #food-menu h1 {
-        font-size: 20px;
+        font-size: 40px;
     }
 
     #food-menu p {
-        font-size: 15px;
-    }
-
-    #games-menu h1 {
         font-size: 20px;
     }
 
+    #games-menu div {
+        padding-top: 50px;
+    }
+
+    #games-menu h1 {
+        font-size: 40px;
+    }
+
     #games-menu p {
-        font-size: 15px;
+        font-size: 20px;
     }
 
     /* book a table */
@@ -180,22 +188,6 @@ body {
 
 @media only screen and (min-width: 768px) {
 
-    #food-menu h1 {
-        font-size: 40px;
-    }
-
-    #food-menu p {
-        font-size: 30px;
-    }
-
-    #games-menu h1 {
-        font-size: 40px;
-    }
-
-    #games-menu p {
-        font-size: 30px;
-    }
-
     #opening-times  div {
       margin-left: 20px
     }
@@ -217,13 +209,13 @@ body {
     }
 
     #food-menu, #games-menu {
-        font-size: 20px;
+        font-size: 30px;
     }
 
-    #consoles {
-        margin-bottom: 50px;
+    #food-menu, #games-menu p {
+        font-size: 30px;
     }
-    
+
     #opening-times h2 {
         font-size:50px;
     }
