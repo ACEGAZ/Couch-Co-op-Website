@@ -208,6 +208,10 @@ body {
         margin-right: 100px;
     }
 
+    #nav-bar {
+        font-size: 50px;
+    }
+
     #food-menu, #games-menu {
         font-size: 30px;
     }
