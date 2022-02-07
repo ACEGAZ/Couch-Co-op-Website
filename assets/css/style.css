@@ -80,7 +80,7 @@ body {
     /* welcome */
     
     #welcome h2 {
-        font-size: 50px;
+        font-size: 30px;
         padding-top: 50px;
     }
 
@@ -96,7 +96,21 @@ body {
     /* find us here */
 
     #find-us-here {
-        font-size: 30px;
+        font-size: 25px;
+    }
+
+    /* contact */
+
+    #contact div {
+        padding-bottom: 50px;
+    }
+
+    #contact h4 {
+        font-size: 40px;
+    }
+
+    #contact p {
+         font-size: 20px;
     }
 
     /* opening times */
@@ -105,8 +119,8 @@ body {
         font-size: 40px;
     }
     
-    #opening-times h3, h4 {
-        font-size: 20px;
+    #opening-times h4 {
+        font-size: 22px;
     }
     
     #opening-times  div {
@@ -189,6 +203,10 @@ body {
 /* media query for screens with min-width of 768 */
 
 @media only screen and (min-width: 768px) {
+     
+    #contact p { font-size: 30px;
+
+    }
 
     #opening-times  div {
       margin-left: 20px
@@ -214,6 +232,31 @@ body {
         font-size: 50px;
     }
 
+    #find-us-here {
+        font-size: 40px;
+    }
+
+    #contact h4 {
+        font-size: 50px;
+    }
+
+    #contact p {
+        font-size: 40px;
+    }
+
+    #opening-times h2 {
+        font-size: 50px;
+    }
+
+    #opening-times h4 {
+        font-size: 40px;
+    }
+
+    #welcome i {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
     #food-menu p {
         font-size: 30px;
     }
@@ -222,16 +265,4 @@ body {
         font-size: 30px;
     }
 
-    #opening-times h2 {
-        font-size: 50px;
-    }
-
-    #opening-times h3, h4 {
-        font-size: 35px;
-    }
-
-    #welcome i {
-        padding-left: 30px;
-        padding-right: 30px;
-    }
     }
