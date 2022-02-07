@@ -232,6 +232,15 @@ body {
         font-size: 50px;
     }
 
+    #welcome h2 {
+        font-size: 50px;
+    }
+
+    #welcome i {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
     #find-us-here {
         font-size: 40px;
     }
@@ -250,11 +259,6 @@ body {
 
     #opening-times h4 {
         font-size: 40px;
-    }
-
-    #welcome i {
-        padding-left: 30px;
-        padding-right: 30px;
     }
 
     #food-menu p {
