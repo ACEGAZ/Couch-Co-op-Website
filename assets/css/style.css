@@ -56,8 +56,8 @@ body {
     letter-spacing: 4px;
     font-weight: 600;
     }
-
-#nav-bar li {
+    
+    #nav-bar li {
     list-style: none;
     display: inline;
     padding-left: 20px;
@@ -80,17 +80,12 @@ body {
     /* welcome */
     
     #welcome h2 {
-        font-size: 30px;
-        padding-top: 50px;
+        font-size: 40px;
     }
 
     #welcome p {
         font-size: 30px;
         display: inline-table;
-    }
-
-    #welcome i {
-        padding: 0%;
     }
 
     /* find us here */
@@ -101,12 +96,8 @@ body {
 
     /* contact */
 
-    #contact div {
-        padding-bottom: 50px;
-    }
-
-    #contact h4 {
-        font-size: 40px;
+    #contact h2 {
+        font-size: 35px;
     }
 
     #contact p {
@@ -116,11 +107,11 @@ body {
     /* opening times */
 
     #opening-times h2 {
-        font-size: 40px;
+        font-size: 30px;
     }
-    
-    #opening-times h4 {
-        font-size: 22px;
+
+    #opening-times h3 {
+        font-size: 20px;
     }
     
     #opening-times  div {
@@ -143,7 +134,7 @@ body {
     }
 
     #food-menu p {
-        font-size: 20px;
+        font-size: 30px;
     }
 
     #games-menu div {
@@ -155,7 +146,7 @@ body {
     }
 
     #games-menu p {
-        font-size: 20px;
+        font-size: 30px;
     }
 
     /* book a table */
@@ -203,13 +194,8 @@ body {
 /* media query for screens with min-width of 768 */
 
 @media only screen and (min-width: 768px) {
-     
-    #welcome h2 {
-        font-size: 40px;
-    }
-    
-    #contact p { font-size: 30px;
 
+    #contact p { font-size: 30px;
     }
 
     #opening-times  div {
@@ -249,7 +235,7 @@ body {
         font-size: 40px;
     }
 
-    #contact h4 {
+    #contact h2 {
         font-size: 50px;
     }
 
@@ -261,7 +247,7 @@ body {
         font-size: 50px;
     }
 
-    #opening-times h4 {
+    #opening-times h3 {
         font-size: 40px;
     }
 
