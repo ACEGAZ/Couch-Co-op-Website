@@ -101,7 +101,7 @@ body {
     }
 
     #contact p {
-         font-size: 20px;
+         font-size: 30px;
     }
 
     /* opening times */
@@ -116,7 +116,6 @@ body {
     
     #opening-times  div {
         display: inline-table;
-        margin-left: 40px;
     }
 
     /* food and games menus */
@@ -195,9 +194,6 @@ body {
 
 @media only screen and (min-width: 768px) {
 
-    #contact p { font-size: 30px;
-    }
-
     #opening-times  div {
       margin-left: 20px
     }
@@ -216,47 +212,5 @@ body {
     #right-header {
         font-size: 50px;
         margin-right: 100px;
-    }
-
-    #nav-bar {
-        font-size: 50px;
-    }
-
-    #welcome h2 {
-        font-size: 50px;
-    }
-
-    #welcome i {
-        padding-left: 30px;
-        padding-right: 30px;
-    }
-
-    #find-us-here {
-        font-size: 40px;
-    }
-
-    #contact h2 {
-        font-size: 50px;
-    }
-
-    #contact p {
-        font-size: 40px;
-    }
-
-    #opening-times h2 {
-        font-size: 50px;
-    }
-
-    #opening-times h3 {
-        font-size: 40px;
-    }
-
-    #food-menu p {
-        font-size: 30px;
-    }
-
-    #games-menu p {
-        font-size: 30px;
-    }
-
+    } 
     }
