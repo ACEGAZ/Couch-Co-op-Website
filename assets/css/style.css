@@ -151,12 +151,11 @@ body {
     /* book a table */
 
     #book-a-table {
-        font-size: 30px;
         margin-bottom: 600px;
     }
 
     #book-a-table h1 {
-        font-size: 50px;
+        font-size: 40px;
         padding-top: 50px;
     }
 
@@ -195,9 +194,10 @@ body {
 @media only screen and (min-width: 768px) {
 
     #opening-times  div {
-      margin-left: 20px
-    }
+      margin-left: 40px
 }
+}
+
 
 /* media query for screens with min-width of 1200 */
 
