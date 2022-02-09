@@ -249,10 +249,17 @@ body {
 
 @media only screen and (min-width: 1200px) {
 
+    #left-header  {
+        margin-top: 50px;
+     }
+
     #left-header h1 {
        font-size: 100px;
     }
 
+    #right-header  {
+        margin-top: 50px;
+     }
     
     #right-header h1 {
        font-size: 100px;
