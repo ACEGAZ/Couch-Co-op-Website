@@ -98,7 +98,7 @@ body {
 
     /* find us here */
 
-    #find-us-here {
+    #find-us-here h2 {
         font-size: 2vw;
     }
 
@@ -227,6 +227,10 @@ body {
      font-size: 30px;
     }
 
+    #find-us-here h2 {
+        font: 30px;
+    }
+
     #contact h2 {
         font-size: 30px;
     }
@@ -286,6 +290,10 @@ body {
 
     #contact p {
         font-size: 30px;
+    }
+
+    #find-us-here h2 {
+        font-size: 40px;
     }
 
     #opening-times h2 {
