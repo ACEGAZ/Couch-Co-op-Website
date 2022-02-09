@@ -17,51 +17,55 @@ body {
 }
 
 .sections i {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 /* heading and logo */
 
-#left-header {
-    float: left;
+#head {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
     margin: 0 auto;
-    font-size: 40px;
-    padding-top: 50px;
+    justify-content: center;
+    
+}
+#left-header {
+    font-size: 20px;
+    width: 30%;
+    margin-top: 100px;
 }
 
 #center-image {
     background-image: url('../images/Design_1-removebg-preview.png');
-    height: 400px; 
-    width: 35%;
+    width: 30%;
     background-repeat: no-repeat;
-    margin: 0 auto;
-    background-position: center;
-    display: inline-block;
-    padding-left: 40px;
+    background-position: center center;
+    background-size: contain;
+    position: relative;
+    height: 350px;
 }
 
 #right-header {
-    margin: 0 auto;
-    float: right;
-    font-size: 40px;
-    padding-top: 50px;
-    padding-right: 10px;
+    font-size: 20px;
+    width: 30%;
+    margin-top: 100px;
 }
 
 /* nav-bar */
 
 #nav-bar {
-    font-size: 40px;
-    letter-spacing: 4px;
+    font-size: 20px;
     font-weight: 600;
     }
     
     #nav-bar li {
     list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;
     display: inline;
-    padding-left: 20px;
-    padding-right: 20px;
+    
 }
 
     #nav-bar a {
@@ -78,44 +82,51 @@ body {
         }
 
     /* welcome */
-    
+s
+
     #welcome h2 {
-        font-size: 40px;
+        font-size: 25px;
     }
 
     #welcome p {
-        font-size: 30px;
+        font-size: 20px;
         display: inline-table;
     }
 
     /* find us here */
 
     #find-us-here {
-        font-size: 25px;
+        font-size: 20px;
+    }
+
+    #find-us-here iframe {
+        width: 50%;
     }
 
     /* contact */
 
     #contact h2 {
-        font-size: 35px;
+        font-size: 20px;
     }
 
     #contact p {
-         font-size: 30px;
+         font-size: 20px;
     }
 
     /* opening times */
 
     #opening-times h2 {
-        font-size: 30px;
+        font-size: 20px;
     }
 
     #opening-times h3 {
-        font-size: 20px;
+        font-size: 10px;
     }
     
     #opening-times  div {
         display: inline-table;
+        margin-left: 5px;
+        margin-right: 5px;
     }
 
     /* food and games menus */
@@ -129,23 +140,23 @@ body {
     }
 
     #food-menu h1 {
-        font-size: 40px;
+        font-size: 25px;
     }
 
     #food-menu p {
-        font-size: 30px;
+        font-size: 20px;
     }
 
     #games-menu div {
-        padding-top: 50px;
+        padding-top: 20px;
     }
 
     #games-menu h1 {
-        font-size: 40px;
+        font-size: 25px;
     }
 
     #games-menu p {
-        font-size: 30px;
+        font-size: 20px;
     }
 
     /* book a table */
@@ -155,25 +166,22 @@ body {
     }
 
     #book-a-table h1 {
-        font-size: 40px;
+        font-size: 25px;
         padding-top: 50px;
     }
 
     #book-a-table label {
         text-align: center;
-        font-size: 40px;
+        font-size: 20px;
      }
 
     #book-a-table input {
        text-align: center;
-       font-size: 25px;
+       font-size: 20px;
     }
 
    /* footer */
-    
-    footer {
-        clear: both;
-    }
+
 
    .social-networks {
     margin-top: 100px;
@@ -181,7 +189,7 @@ body {
 
    .social-networks li {
     display: inline;
-    font-size: 50px;
+    font-size: 20px;
 }
 
 .social-networks i {
@@ -193,9 +201,34 @@ body {
 
 @media only screen and (min-width: 768px) {
 
-    #opening-times  div {
-      margin-left: 40px
-}
+   header li {
+       font-size: 30px;
+   }
+   
+    #head div {
+        font-size: 30px;
+        line-height: 40px;  
+    }
+
+    .sections h2 {
+     font-size: 30px;
+    }
+
+    #contact h2 {
+        font-size: 30px;
+    }
+
+    #opening-times h2 {
+        font-size: 30px;
+       }
+
+    #opening-times h3 {
+        font-size: 15px;
+       }
+
+       footer a {
+           font-size: 30px;
+       }
 }
 
 
@@ -203,14 +236,75 @@ body {
 
 @media only screen and (min-width: 1200px) {
     
-    #left-header {
-       font-size: 50px;
-       margin-left: 100px;
+   
+    #left-header h1 {
+       font-size: 100px;
     }
 
     
-    #right-header {
-        font-size: 50px;
-        margin-right: 100px;
+    #right-header h1 {
+       font-size: 100px;
     } 
+
+    #nav-bar li {
+        font-size: 40px;
+        margin-left: 40px;
+        margin-right: 40px ;
+    }
+
+    .sections h2 {
+        font-size: 40px;
+    }
+
+    #welcome p {
+        font-size: 35px;
+    }
+
+    #contact h2 {
+        font-size: 40px;
+    }
+
+    #contact p {
+        font-size: 30px;
+    }
+
+    #opening-times h2 {
+        font-size: 40px;
+    }
+
+    #opening-times h3 {
+        font-size: 25px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    #food-menu h1 {
+        font-size: 40px;
+    }
+
+    
+    #food-menu p {
+        font-size: 30px;
+    }
+
+    #games-menu h1 {
+        font-size: 40px;
+    }
+
+    
+    #games-menu p {
+        font-size: 30px;
+    }
+
+    #book-a-table h1 {
+        font-size: 40px;
+    }
+
+    #book-a-table label {
+        font-size: 30px;
+    }
+
+    footer a {
+        font-size: 40px;
+    }
     }
