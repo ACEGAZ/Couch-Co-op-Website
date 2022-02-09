@@ -32,7 +32,7 @@ body {
     
 }
 #left-header {
-    font-size: 16px;
+    font-size: 14px;
     width: 30%;
     margin-top: 125px;
 }
@@ -48,9 +48,10 @@ body {
 }
 
 #right-header {
-    font-size: 16px;
+    font-size: 14px;
     width: 30%;
     margin-top: 125px;
+    margin-right: 20px;
 }
 
 /* nav-bar */
