@@ -25,6 +25,12 @@
  
  ![welcome section](https://user-images.githubusercontent.com/97246895/153393331-a8cb07c3-1507-48cd-b5b4-af0b23169379.jpg)
  
+ # Find Us Here section
+ 
+ <font size="4">The find us here section shows the user exactly where we are based, using iframes and goggle maps.</font>
+ 
+ ![find us here](https://user-images.githubusercontent.com/97246895/153394112-b4ceae45-f700-402b-b1df-156543db9222.jpg)
+ 
  
 
 
