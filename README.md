@@ -61,13 +61,19 @@
  
  ![consoles](https://user-images.githubusercontent.com/97246895/153397394-52edb055-b962-4edc-b987-5edf39c3cec1.jpg)
  
+ # Book A Table
+ 
+ <font size="4">The Book A Table section allows users to easily book a table for a specific time and date.</font>
+ 
+ ![book a table](https://user-images.githubusercontent.com/97246895/153399414-50f78042-125d-4c34-9b6c-503cafc9de2a.jpg)
+ 
  
 
 
 
 
 
-<font size="4"></font>
+
 
 
 
