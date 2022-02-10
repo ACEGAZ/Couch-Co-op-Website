@@ -31,6 +31,12 @@
  
  ![find us here](https://user-images.githubusercontent.com/97246895/153394112-b4ceae45-f700-402b-b1df-156543db9222.jpg)
  
+ # Contact section 
+ 
+ <font size="4">The contact section displays our contact number and email, very clearly to the user.</font>
+ 
+ ![contact](https://user-images.githubusercontent.com/97246895/153394762-4852cb60-ad8e-4f0d-b29e-e73a3f34a757.jpg)
+ 
  
 
 
