@@ -9,9 +9,17 @@
 
 # Features 
 
--header 
+<font size="4">The header contains our logo and text which immediately lets users know who we are.</font>
 
 ![Couch Co-op logo](https://user-images.githubusercontent.com/97246895/153390860-8552e694-9c09-425f-94ad-11bbebeb80bb.jpg)
+ 
+ # Navigation
+ 
+ <font size="4">Users can easily</font>
+
+
+<font size="4"></font>
+<font size="4"></font>
 
 
 
