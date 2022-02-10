@@ -1,6 +1,6 @@
 # Couch Co-op
 
-<p>Couch Co-op is an information and booking page for a restaurant based in Hastings, East Sussex.<p> 
+<font size="4">Couch o-op is an information and booking page for a restaurant based in Hastings, East Sussex.</font> 
 
 
 
