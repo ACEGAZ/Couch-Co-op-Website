@@ -37,6 +37,12 @@
  
  ![contact](https://user-images.githubusercontent.com/97246895/153394762-4852cb60-ad8e-4f0d-b29e-e73a3f34a757.jpg)
  
+ # Opening Times section
+ 
+ <font size="4">The Opening times section explains what times we are open to the user for every single day of the week.</font>
+ 
+ ![opening times](https://user-images.githubusercontent.com/97246895/153395403-5341fc31-e8e7-4a0c-b39a-8f4fac55807b.jpg)
+ 
  
 
 
