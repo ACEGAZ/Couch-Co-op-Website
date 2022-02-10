@@ -1,4 +1,4 @@
-<h1 font-size="1"> Couch Co-op<h1>
+<h1 font-size="4"> Couch Co-op<h1>
 
 <p>Couch Co-op is an information and booking page for a restaurant based in Hastings, East Sussex.<p> 
 
