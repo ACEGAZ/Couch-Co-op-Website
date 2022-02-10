@@ -49,11 +49,17 @@
  
  ![footer](https://user-images.githubusercontent.com/97246895/153395936-5cca381a-9d22-4f44-b2b4-04a7fc56191b.jpg)
  
- # Menu
+ # Menu section
  
  <font size="4">The menu section contains a full menu and prices for all items</font>
  
  ![menu](https://user-images.githubusercontent.com/97246895/153396946-804c2668-4fc1-4a6e-b46c-e59c6b38561e.jpg)
+ 
+ # Games section
+ 
+ <font size="4">The Games section contains a full list of every Console we own, as well as every board game, table top rpg and card game we have to offer.</font>
+ 
+ ![consoles](https://user-images.githubusercontent.com/97246895/153397394-52edb055-b962-4edc-b987-5edf39c3cec1.jpg)
  
  
 
