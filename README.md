@@ -49,6 +49,12 @@
  
  ![footer](https://user-images.githubusercontent.com/97246895/153395936-5cca381a-9d22-4f44-b2b4-04a7fc56191b.jpg)
  
+ # Menu
+ 
+ <font size="4">The menu section contains a full menu and prices for all items</font>
+ 
+ ![menu](https://user-images.githubusercontent.com/97246895/153396946-804c2668-4fc1-4a6e-b46c-e59c6b38561e.jpg)
+ 
  
 
 
