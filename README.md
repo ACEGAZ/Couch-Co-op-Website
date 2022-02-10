@@ -1,4 +1,5 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![image](https://user-images.githubusercontent.com/97246895/153382352-0b6bb3c3-0239-4a24-87e3-636dc3113e2b.png)
+
 
 Welcome ACEGAZ,
 
