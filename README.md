@@ -21,12 +21,16 @@
  
  # Welcome section
  
+ <font size="4">The welcome section greets the user and explains who we are and what we do.</font>
+ 
+ ![welcome section](https://user-images.githubusercontent.com/97246895/153393331-a8cb07c3-1507-48cd-b5b4-af0b23169379.jpg)
+ 
  
 
 
 
 
-<font size="4"></font>
+
 <font size="4"></font>
 
 
