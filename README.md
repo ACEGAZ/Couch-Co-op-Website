@@ -4,7 +4,7 @@
 
 ![HTML check](https://user-images.githubusercontent.com/97246895/153382013-40dcfc18-a600-4c11-bd8c-bc654e25f170.jpg)
 
-[lighthouse - Copy.pdf](https://github.com/ACEGAZ/Couch-Co-op-Website/files/8040024/lighthouse.-.Copy.pdf)
+![lighthouse1024_1](https://user-images.githubusercontent.com/97246895/153384651-0cdf4261-a86e-43aa-8e68-15d2ac90c6b4.jpg)
 
 Welcome ACEGAZ,
 
