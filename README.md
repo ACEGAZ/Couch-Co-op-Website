@@ -43,6 +43,12 @@
  
  ![opening times](https://user-images.githubusercontent.com/97246895/153395403-5341fc31-e8e7-4a0c-b39a-8f4fac55807b.jpg)
  
+ # Footer
+ 
+ <font size="4">The footer displays clear, clickable links to Facebook, Twitter, Youtube and instagram.</font>
+ 
+ ![footer](https://user-images.githubusercontent.com/97246895/153395936-5cca381a-9d22-4f44-b2b4-04a7fc56191b.jpg)
+ 
  
 
 
