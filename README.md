@@ -67,6 +67,13 @@
  
  ![book a table](https://user-images.githubusercontent.com/97246895/153399414-50f78042-125d-4c34-9b6c-503cafc9de2a.jpg)
  
+ # Testing 
+ 
+  1. I have tested that the website works in Chrome, Firefox and Edge 
+  2. I have tested that the website is responsive in dev tools and when manually resizing the browser window. 
+  3. I have tested that the fonts, font sizes and background colours are all easily readable. 
+  4. I have tested that the form will only work if all fields are filled and that the submit button works. 
+ 
  
 
 
