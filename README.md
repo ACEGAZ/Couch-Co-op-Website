@@ -17,7 +17,7 @@
  
  <font size="4">Users can easily navigate the website using a simple but stylish navigation bar. The navigation bar includes Home, Menu, Games and bookings tabs.</font>
  
- ![Navbar](https://user-images.githubusercontent.com/97246895/153392150-3f032d79-9d9e-48bf-869c-e204f72ef5aa.jpg
+ ![Navbar](https://user-images.githubusercontent.com/97246895/153392150-3f032d79-9d9e-48bf-869c-e204f72ef5aa.jpg)
  
  # Welcome section
  
