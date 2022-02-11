@@ -4,12 +4,8 @@
  Users can find the location, telephone number, email and opening times on the landing page. users can find a full menu and prices on our menu page and a full list of games on our games page. finally users can book a table at a specific time of day on our bookings page. 
   
   the site is targeted towards teens, gamers and families.
-<<<<<<< HEAD
 </font>
  
-=======
-</font> 
->>>>>>> 1e12db5ba8b4cfe18fa036edabf8b9aff9fea60e
 ![responsive desigen preview](https://user-images.githubusercontent.com/97246895/153381985-58f4beaa-bef0-432a-aa2b-7ebf875902aa.jpg)
 
 # Features 
@@ -74,10 +70,47 @@
  
  # Testing 
  
-  1. I have tested that the website works in Chrome, Firefox and Edge 
-  2. I have tested that the website is responsive in dev tools and when manually resizing the browser window. 
-  3. I have tested that the fonts, font sizes and background colours are all easily readable. 
-  4. I have tested that the form will only work if all fields are filled and that the submit button works. 
+  * I have tested that the website works in Chrome, Firefox and Edge 
+  * I have tested that the website is responsive in dev tools and when manually resizing the browser window. 
+  * I have tested that the fonts, font sizes and background colours are all easily readable. 
+  * I have tested that the form will only work if all fields are filled and that the submit button works.
+
+  # Solved Bugs
+
+  * Device tool bar in dev tools did not accurately represent the size of the web page, causing elements to move when the browser was resized. this was solved by manually resizing the browser window and ajusting elements. 
+
+  # Unsolved bugs
+
+  * Font Awesome icons move to the right when the browser is refreshed.
+  * font size rules not allows being followed for mobile scrrens in Chrome browsers. 
+
+  # Validator testing 
+
+  * HTML testing found no errors.
+
+  ![HTML check](https://user-images.githubusercontent.com/97246895/153382013-40dcfc18-a600-4c11-bd8c-bc654e25f170.jpg)
+
+  * CSS testing found no errors
+
+  ![image](https://user-images.githubusercontent.com/97246895/153382352-0b6bb3c3-0239-4a24-87e3-636dc3113e2b.png)
+
+  * Lighthouse testing confirmed that the fonts and colours used are all easy to read.
+
+  ![lighthouse1024_1](https://user-images.githubusercontent.com/97246895/153384651-0cdf4261-a86e-43aa-8e68-15d2ac90c6b4.jpg)
+
+  # Credits 
+
+  * Content 
+    * The Code to make the social media links were taken from the CI love running project.
+    * The structure for this README.md was taken from the Coding Club smaple README.md.
+
+  * Media
+    * The Header image was designed by Chloe Tanner and was made for our use. 
+       
+
+
+
+   
  
  
 
@@ -89,11 +122,9 @@
 
 
 
-![image](https://user-images.githubusercontent.com/97246895/153382352-0b6bb3c3-0239-4a24-87e3-636dc3113e2b.png)
 
-![HTML check](https://user-images.githubusercontent.com/97246895/153382013-40dcfc18-a600-4c11-bd8c-bc654e25f170.jpg)
 
-![lighthouse1024_1](https://user-images.githubusercontent.com/97246895/153384651-0cdf4261-a86e-43aa-8e68-15d2ac90c6b4.jpg)
+
 
 
 
