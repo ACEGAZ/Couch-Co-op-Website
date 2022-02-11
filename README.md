@@ -1,108 +1,96 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Couch Co-op
 
-Welcome ACEGAZ,
+<font size="4">Couch co-op is an information and booking page for a restaurant based in Hastings, East Sussex.
+ Users can find the location, telephone number, email and opening times on the landing page. users can find a full menu and prices on our menu page and a full list of games on our games page. finally users can book a table at a specific time of day on our bookings page. 
+  
+  the site is targeted towards teens, gamers and families.
+</font> 
+![responsive desigen preview](https://user-images.githubusercontent.com/97246895/153381985-58f4beaa-bef0-432a-aa2b-7ebf875902aa.jpg)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+# Features 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+<font size="4">The header contains our logo and text which immediately lets users know who we are.</font>
 
-## Gitpod Reminders
+![Couch Co-op logo](https://user-images.githubusercontent.com/97246895/153390860-8552e694-9c09-425f-94ad-11bbebeb80bb.jpg)
+ 
+ # Navigation
+ 
+ <font size="4">Users can easily navigate the website using a simple but stylish navigation bar. The navigation bar includes Home, Menu, Games and bookings tabs.</font>
+ 
+ ![Navbar](https://user-images.githubusercontent.com/97246895/153392150-3f032d79-9d9e-48bf-869c-e204f72ef5aa.jpg)
+ 
+ # Welcome section
+ 
+ <font size="4">The welcome section greets the user and explains who we are and what we do.</font>
+ 
+ ![welcome section](https://user-images.githubusercontent.com/97246895/153393331-a8cb07c3-1507-48cd-b5b4-af0b23169379.jpg)
+ 
+ # Find Us Here section
+ 
+ <font size="4">The find us here section shows the user exactly where we are based, using iframes and goggle maps.</font>
+ 
+ ![find us here](https://user-images.githubusercontent.com/97246895/153394112-b4ceae45-f700-402b-b1df-156543db9222.jpg)
+ 
+ # Contact section 
+ 
+ <font size="4">The contact section displays our contact number and email, very clearly to the user.</font>
+ 
+ ![contact](https://user-images.githubusercontent.com/97246895/153394762-4852cb60-ad8e-4f0d-b29e-e73a3f34a757.jpg)
+ 
+ # Opening Times section
+ 
+ <font size="4">The Opening times section explains what times we are open to the user for every single day of the week.</font>
+ 
+ ![opening times](https://user-images.githubusercontent.com/97246895/153395403-5341fc31-e8e7-4a0c-b39a-8f4fac55807b.jpg)
+ 
+ # Footer
+ 
+ <font size="4">The footer displays clear, clickable links to Facebook, Twitter, Youtube and instagram.</font>
+ 
+ ![footer](https://user-images.githubusercontent.com/97246895/153395936-5cca381a-9d22-4f44-b2b4-04a7fc56191b.jpg)
+ 
+ # Menu section
+ 
+ <font size="4">The menu section contains a full menu and prices for all items</font>
+ 
+ ![menu](https://user-images.githubusercontent.com/97246895/153396946-804c2668-4fc1-4a6e-b46c-e59c6b38561e.jpg)
+ 
+ # Games section
+ 
+ <font size="4">The Games section contains a full list of every Console we own, as well as every board game, table top rpg and card game we have to offer.</font>
+ 
+ ![consoles](https://user-images.githubusercontent.com/97246895/153397394-52edb055-b962-4edc-b987-5edf39c3cec1.jpg)
+ 
+ # Book A Table
+ 
+ <font size="4">The Book A Table section allows users to easily book a table for a specific time and date.</font>
+ 
+ ![book a table](https://user-images.githubusercontent.com/97246895/153399414-50f78042-125d-4c34-9b6c-503cafc9de2a.jpg)
+ 
+ # Testing 
+ 
+  1. I have tested that the website works in Chrome, Firefox and Edge 
+  2. I have tested that the website is responsive in dev tools and when manually resizing the browser window. 
+  3. I have tested that the fonts, font sizes and background colours are all easily readable. 
+  4. I have tested that the form will only work if all fields are filled and that the submit button works. 
+ 
+ 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/97246895/153382352-0b6bb3c3-0239-4a24-87e3-636dc3113e2b.png)
+
+![HTML check](https://user-images.githubusercontent.com/97246895/153382013-40dcfc18-a600-4c11-bd8c-bc654e25f170.jpg)
+
+![lighthouse1024_1](https://user-images.githubusercontent.com/97246895/153384651-0cdf4261-a86e-43aa-8e68-15d2ac90c6b4.jpg)
+
+
 
 `python3 -m http.server`
 
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
-------
-
-## Release History
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
-
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
