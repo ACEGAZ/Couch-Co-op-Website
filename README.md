@@ -102,12 +102,23 @@
   
   * HTML
   * CSS
+
+  # Deployment 
+
+  <font size="4">The site was deployed to GitHub pages. The steps to deploy are as follows:
+
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here - https://acegaz.github.io/Couch-Co-op-Website/index.html
+</font>
   
   # Credits 
 
   * Content 
     * The Code to make the social media links were taken from the CI love running project.
     * The structure for this README.md was taken from the Coding Club smaple README.md.
+    * The deployment text on this page was taken from the example README.md from the love running project.
 
   * Media
     * The Header image was designed by Chloe Tanner and was made for our use. 
