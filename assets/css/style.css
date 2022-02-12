@@ -175,7 +175,6 @@ body {
     /* book a table */
 
     #book-a-table {
-        margin-bottom: 600px;
         padding-top: 20px;
     }
 
@@ -186,15 +185,25 @@ body {
     #book-a-table label {
         text-align: center;
         font-size: 2vw;
+        display: block;
+        margin-top: 10px;
      }
 
     #book-a-table input {
        text-align: center;
-       font-size: 2vw;
+       font-size: 2vw; 
+       margin-top: 10px;  
+    }
+
+    #submit-button {
+        margin-top: 20px;
     }
 
    /* footer */
 
+   footer {
+       margin-bottom: 50px;
+   }
 
    .social-networks {
     margin-top: 100px;

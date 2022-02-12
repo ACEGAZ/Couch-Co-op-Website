@@ -97,7 +97,12 @@
   * Lighthouse testing confirmed that the fonts and colours used are all easy to read.
 
   ![lighthouse1024_1](https://user-images.githubusercontent.com/97246895/153384651-0cdf4261-a86e-43aa-8e68-15d2ac90c6b4.jpg)
-
+  
+  # Technolagy Used
+  
+  * HTML
+  * CSS
+  
   # Credits 
 
   * Content 
@@ -106,27 +111,3 @@
 
   * Media
     * The Header image was designed by Chloe Tanner and was made for our use. 
-       
-
-
-
-   
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`python3 -m http.server`
-
